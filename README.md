@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   
-  <h3 align="center">Project Title (PM Should rename the project)</h3>
+  <h3 align="center">Project Title (PM Should update this info)</h3>
 
   <p align="center">
     Project Description
@@ -78,9 +78,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## About The Project (PM Should update this info)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
