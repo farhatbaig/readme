@@ -80,11 +80,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project (PM Should update this info)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+We are Tepia, a mobile development agency that is dedicated to building customer-focused experiences that prioritize the needs and preferences of each customer. We believe that the key to success in growing businesses is understanding and empathizing with customers, and that is why we base our work on not only the latest trends and best practices, but also on the latest developments in human psychology and behavioral research.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
