@@ -144,14 +144,8 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'docker-compose.yml';
    ```
 6. Enter your API in `Update Docker File`
-   ``` **PHP Folder**: Create a folder for PHP in the root directory. Add your specific files.
- **Nginx Folder**: Make an 'nginx' folder in root. Add 2 specific files.
- **Root File**: Place this particular file in the root directory.
- **Framework Folder**: Navigate to 'Storage' -> 'Framework'.
- **Empty Folders**: Create 'cache', 'sessions', 'views' folders here.
- **PHP Version**: Use PHP Version 7.2.
- **Composer**: Run either 'composer install' or 'composer update'.
- **First-Time Setup**: Delete the 'composer.lock' file.';
+   ```docker file
+   const API_KEY = 'docker-compose.yml';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
