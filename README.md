@@ -139,13 +139,17 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-5. Enter your API in `Update Docker File`
+5. Update ` Docker File`
    ```docker file
    const API_KEY = 'docker-compose.yml';
    ```
-6. Enter your API in `Update Docker File`
-   ```docker file
-   const API_KEY = 'docker-compose.yml';
+6. Update ` PHP Folder`
+   ```PHP Folder
+   Create a folder for PHP in the root directory. Add your specific files.;
+   ```
+7. Run ` Composer`
+   ``` Composer
+    Run either 'composer install' or 'composer update'.;
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
